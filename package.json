@@ -1,5 +1,5 @@
 {
-    "name": "DORRAT-BOT-MD",
+    "name": "Deyner-BOT-MD",
     "version": "1.0.0",
     "description": "Subscribete al canal de YT DIEGOGAMEPLAYS82",
     "main": "index.js",
@@ -14,16 +14,16 @@
         "test": "node test.js",
         "test2": "nodemon index.js"
     },
-    "homepage": "https://github.com/DIEGO-OFC/DORRAT-BOT-MD",
+    "homepage": "https://github.com/Userdeyner2/bot1",
     "author": {
-        "name": "DIEGO-OFC"
+        "name": "Deyner-OFC"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DIEGO-OFC/DORRAT-BOT-MD.git"
+        "url": ""
     },
     "bugs": {
-        "url": "https://github.com/DIEGO-OFC/DORRAT-BOT-MD/issues"
+        "url": ""
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
